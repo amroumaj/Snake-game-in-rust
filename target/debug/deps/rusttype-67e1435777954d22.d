@@ -1,0 +1,8 @@
+/home/amrou/Documents/Programming/rust/snake/target/debug/deps/librusttype-67e1435777954d22.rmeta: /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/lib.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/font.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/geometry.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/outliner.rs
+
+/home/amrou/Documents/Programming/rust/snake/target/debug/deps/rusttype-67e1435777954d22.d: /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/lib.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/font.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/geometry.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/outliner.rs
+
+/home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/lib.rs:
+/home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/font.rs:
+/home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/geometry.rs:
+/home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusttype-0.9.3/src/outliner.rs:

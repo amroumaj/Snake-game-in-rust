@@ -1,0 +1,12 @@
+/home/amrou/Documents/Programming/rust/snake/target/debug/deps/liblibloading-9145c754684f60fa.rmeta: /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/lib.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/changelog.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/mod.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/unix/mod.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/unix/consts.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/util.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/error.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/safe.rs
+
+/home/amrou/Documents/Programming/rust/snake/target/debug/deps/libloading-9145c754684f60fa.d: /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/lib.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/changelog.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/mod.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/unix/mod.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/unix/consts.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/util.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/error.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/safe.rs
+
+/home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/lib.rs:
+/home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/changelog.rs:
+/home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/mod.rs:
+/home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/unix/mod.rs:
+/home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/os/unix/consts.rs:
+/home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/util.rs:
+/home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/error.rs:
+/home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/libloading-0.8.3/src/safe.rs:

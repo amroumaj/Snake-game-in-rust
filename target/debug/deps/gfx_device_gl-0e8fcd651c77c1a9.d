@@ -1,0 +1,11 @@
+/home/amrou/Documents/Programming/rust/snake/target/debug/deps/libgfx_device_gl-0e8fcd651c77c1a9.rmeta: /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/lib.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/command.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/factory.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/info.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/shade.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/state.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/tex.rs
+
+/home/amrou/Documents/Programming/rust/snake/target/debug/deps/gfx_device_gl-0e8fcd651c77c1a9.d: /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/lib.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/command.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/factory.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/info.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/shade.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/state.rs /home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/tex.rs
+
+/home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/lib.rs:
+/home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/command.rs:
+/home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/factory.rs:
+/home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/info.rs:
+/home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/shade.rs:
+/home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/state.rs:
+/home/amrou/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gfx_device_gl-0.16.2/src/tex.rs:
